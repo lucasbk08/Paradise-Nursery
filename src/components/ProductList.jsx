@@ -10,19 +10,19 @@ const plantsArray = [
     plants: [
       {
         name: 'Snake Plant',
-        image: 'https://images.unsplash.com/photo-1593691509543-c55fb32d8de5?w=400&q=80',
+        image: '/Paradise-Nursery/images/snake-plant.jpg',
         description: 'Produces oxygen at night, improving air quality.',
         cost: '$15',
       },
       {
         name: 'Spider Plant',
-        image: 'https://images.unsplash.com/photo-1572688484438-313a6e50c333?w=400&q=80',
+        image: '/Paradise-Nursery/images/spider-plant.jpg',
         description: 'Filters formaldehyde and xylene from the air.',
         cost: '$12',
       },
       {
         name: 'Peace Lily',
-        image: 'https://images.unsplash.com/photo-1615729947596-a598e5de0ab3?w=400&q=80',
+        image: '/Paradise-Nursery/images/peace-lily.jpg',
         description: 'Removes mold spores and purifies the air.',
         cost: '$18',
       },
@@ -33,19 +33,19 @@ const plantsArray = [
     plants: [
       {
         name: 'Lavender',
-        image: 'https://images.unsplash.com/photo-1611909023032-2d6b3134ecba?w=400&q=80',
+        image: '/Paradise-Nursery/images/lavender.jpg',
         description: 'Calming scent with stress-relief properties.',
         cost: '$20',
       },
       {
         name: 'Jasmine',
-        image: 'https://images.unsplash.com/photo-1592150621744-aca64f48394a?w=400&q=80',
+        image: '/Paradise-Nursery/images/jasmine.png',
         description: 'Sweet floral fragrance that uplifts the mood.',
         cost: '$18',
       },
       {
         name: 'Rosemary',
-        image: 'https://images.unsplash.com/photo-1515586000433-45406d8e6662?w=400&q=80',
+        image: '/Paradise-Nursery/images/rosemary.jpg',
         description: 'Boosts memory and improves concentration.',
         cost: '$15',
       },
@@ -56,19 +56,19 @@ const plantsArray = [
     plants: [
       {
         name: 'Oregano',
-        image: 'https://images.unsplash.com/photo-1466193080668-4d95033f9c28?w=400&q=80',
+        image: '/Paradise-Nursery/images/oregano.jpg',
         description: 'Contains carvacrol that naturally repels insects.',
         cost: '$10',
       },
       {
         name: 'Mint',
-        image: 'https://images.unsplash.com/photo-1628556270448-4d4e4148e1b1?w=400&q=80',
+        image: '/Paradise-Nursery/images/mint.jpg',
         description: 'Strong scent deters mosquitoes and ants.',
         cost: '$12',
       },
       {
         name: 'Marigold',
-        image: 'https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=400&q=80',
+        image: '/Paradise-Nursery/images/marigold.jpg',
         description: 'Natural pyrethrum repels a wide range of pests.',
         cost: '$8',
       },
@@ -79,19 +79,19 @@ const plantsArray = [
     plants: [
       {
         name: 'Aloe Vera',
-        image: 'https://images.unsplash.com/photo-1596547609652-9cf5d8c76ea6?w=400&q=80',
+        image: '/Paradise-Nursery/images/aloe-vera.jpg',
         description: 'Soothes burns and skin irritations naturally.',
         cost: '$14',
       },
       {
         name: 'Echinacea',
-        image: 'https://images.unsplash.com/photo-1526318896980-cf78c088247c?w=400&q=80',
+        image: '/Paradise-Nursery/images/echinacea.jpg',
         description: 'Boosts immune system and fights cold symptoms.',
         cost: '$16',
       },
       {
         name: 'Peppermint',
-        image: 'https://images.unsplash.com/photo-1628556270448-4d4e4148e1b1?w=400&q=80',
+        image: '/Paradise-Nursery/images/peppermint.jpg',
         description: 'Relieves headaches and aids digestion.',
         cost: '$13',
       },
@@ -102,19 +102,19 @@ const plantsArray = [
     plants: [
       {
         name: 'ZZ Plant',
-        image: 'https://images.unsplash.com/photo-1632207691143-643e2a9a9361?w=400&q=80',
+        image: '/Paradise-Nursery/images/zz-plant.jpg',
         description: 'Thrives in low light with minimal watering.',
         cost: '$25',
       },
       {
         name: 'Pothos',
-        image: 'https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80',
+        image: '/Paradise-Nursery/images/pothos.jpg',
         description: 'Fast-growing vine that tolerates neglect well.',
         cost: '$10',
       },
       {
         name: 'Cactus',
-        image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80',
+        image: '/Paradise-Nursery/images/cactus.jpg',
         description: 'Needs very little water and loves bright light.',
         cost: '$9',
       },
