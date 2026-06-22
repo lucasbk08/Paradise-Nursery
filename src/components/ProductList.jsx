@@ -10,19 +10,19 @@ const plantsArray = [
     plants: [
       {
         name: 'Snake Plant',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Single_Mother_in_Laws_Tongue.jpg/440px-Single_Mother_in_Laws_Tongue.jpg',
+        image: 'https://images.unsplash.com/photo-1593691509543-c55fb32d8de5?w=400&q=80',
         description: 'Produces oxygen at night, improving air quality.',
         cost: '$15',
       },
       {
         name: 'Spider Plant',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chlorophytum_comosum_Vittatum_001.JPG/450px-Chlorophytum_comosum_Vittatum_001.JPG',
+        image: 'https://images.unsplash.com/photo-1572688484438-313a6e50c333?w=400&q=80',
         description: 'Filters formaldehyde and xylene from the air.',
         cost: '$12',
       },
       {
         name: 'Peace Lily',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Spathiphyllum_cochlearispathum_RTBG.jpg/400px-Spathiphyllum_cochlearispathum_RTBG.jpg',
+        image: 'https://images.unsplash.com/photo-1615729947596-a598e5de0ab3?w=400&q=80',
         description: 'Removes mold spores and purifies the air.',
         cost: '$18',
       },
@@ -33,19 +33,19 @@ const plantsArray = [
     plants: [
       {
         name: 'Lavender',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Wisteria_sinensis_002.jpg/800px-Wisteria_sinensis_002.jpg',
+        image: 'https://images.unsplash.com/photo-1611909023032-2d6b3134ecba?w=400&q=80',
         description: 'Calming scent with stress-relief properties.',
         cost: '$20',
       },
       {
         name: 'Jasmine',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jasminum_sambac1.jpg/440px-Jasminum_sambac1.jpg',
+        image: 'https://images.unsplash.com/photo-1592150621744-aca64f48394a?w=400&q=80',
         description: 'Sweet floral fragrance that uplifts the mood.',
         cost: '$18',
       },
       {
         name: 'Rosemary',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rosemary_bush.jpg/1200px-Rosemary_bush.jpg',
+        image: 'https://images.unsplash.com/photo-1515586000433-45406d8e6662?w=400&q=80',
         description: 'Boosts memory and improves concentration.',
         cost: '$15',
       },
@@ -56,19 +56,19 @@ const plantsArray = [
     plants: [
       {
         name: 'Oregano',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Origanum_vulgare_-_harilik_pune.jpg/450px-Origanum_vulgare_-_harilik_pune.jpg',
+        image: 'https://images.unsplash.com/photo-1466193080668-4d95033f9c28?w=400&q=80',
         description: 'Contains carvacrol that naturally repels insects.',
         cost: '$10',
       },
       {
         name: 'Mint',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mojito_Mint_-_Mentha_x_villosa.jpg/440px-Mojito_Mint_-_Mentha_x_villosa.jpg',
+        image: 'https://images.unsplash.com/photo-1628556270448-4d4e4148e1b1?w=400&q=80',
         description: 'Strong scent deters mosquitoes and ants.',
         cost: '$12',
       },
       {
         name: 'Marigold',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Calendula_Officinalis_Fleurie.jpg/440px-Calendula_Officinalis_Fleurie.jpg',
+        image: 'https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=400&q=80',
         description: 'Natural pyrethrum repels a wide range of pests.',
         cost: '$8',
       },
@@ -79,19 +79,19 @@ const plantsArray = [
     plants: [
       {
         name: 'Aloe Vera',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Aloe_vera_flower_inset.png/800px-Aloe_vera_flower_inset.png',
+        image: 'https://images.unsplash.com/photo-1596547609652-9cf5d8c76ea6?w=400&q=80',
         description: 'Soothes burns and skin irritations naturally.',
         cost: '$14',
       },
       {
         name: 'Echinacea',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Echinacea_purpurea.jpg/440px-Echinacea_purpurea.jpg',
+        image: 'https://images.unsplash.com/photo-1526318896980-cf78c088247c?w=400&q=80',
         description: 'Boosts immune system and fights cold symptoms.',
         cost: '$16',
       },
       {
         name: 'Peppermint',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yerevan-Botanical_Garden_-_Mentha_piperita.jpg/1024px-Yerevan-Botanical_Garden_-_Mentha_piperita.jpg',
+        image: 'https://images.unsplash.com/photo-1628556270448-4d4e4148e1b1?w=400&q=80',
         description: 'Relieves headaches and aids digestion.',
         cost: '$13',
       },
@@ -102,19 +102,19 @@ const plantsArray = [
     plants: [
       {
         name: 'ZZ Plant',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Zamioculcas_zamiifolia.jpg/440px-Zamioculcas_zamiifolia.jpg',
+        image: 'https://images.unsplash.com/photo-1632207691143-643e2a9a9361?w=400&q=80',
         description: 'Thrives in low light with minimal watering.',
         cost: '$25',
       },
       {
         name: 'Pothos',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Epipremnum_pinnatum.jpg/440px-Epipremnum_pinnatum.jpg',
+        image: 'https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80',
         description: 'Fast-growing vine that tolerates neglect well.',
         cost: '$10',
       },
       {
         name: 'Cactus',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Thlocactus_bicolor.jpg/440px-Thlocactus_bicolor.jpg',
+        image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80',
         description: 'Needs very little water and loves bright light.',
         cost: '$9',
       },
