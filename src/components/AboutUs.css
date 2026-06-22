@@ -1,0 +1,80 @@
+.about-container {
+  min-height: 100vh;
+  background-image: url('https://images.unsplash.com/photo-1501004318641-b39e6451bec6?w=1600&q=80');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.about-overlay {
+  min-height: 100vh;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+}
+
+.about-content {
+  max-width: 640px;
+  text-align: center;
+  color: white;
+}
+
+.about-logo {
+  font-size: 4rem;
+  margin-bottom: 12px;
+}
+
+.about-title {
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 8px;
+  letter-spacing: 1px;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.4);
+}
+
+.about-tagline {
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #a5d6a7;
+  margin-bottom: 20px;
+}
+
+.about-divider {
+  width: 80px;
+  height: 3px;
+  background: #4CAF50;
+  margin: 0 auto 24px;
+  border-radius: 2px;
+}
+
+.about-description {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: rgba(255,255,255,0.88);
+  margin-bottom: 16px;
+}
+
+.get-started-btn {
+  margin-top: 24px;
+  padding: 14px 48px;
+  background: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  cursor: pointer;
+  letter-spacing: 0.5px;
+  transition: background 0.2s, transform 0.2s;
+  box-shadow: 0 4px 20px rgba(76, 175, 80, 0.5);
+}
+
+.get-started-btn:hover {
+  background: #388e3c;
+  transform: translateY(-2px);
+}
